@@ -3399,7 +3399,7 @@
 											"top": 340,
 											"width": 81,
 											"height": 13,
-											"text": "대여소벌 정렬"
+											"text": "대여소별 정렬"
 										},
 										{
 											"_type": "LabelView",
@@ -3463,7 +3463,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -32,
-									"top": -32,
+									"top": -40,
 									"width": 10,
 									"height": 10
 								},
@@ -3480,7 +3480,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -32,
-									"top": -32,
+									"top": -40,
 									"width": 10,
 									"height": 10
 								},
@@ -3497,7 +3497,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -32,
-									"top": -32,
+									"top": -40,
 									"width": 10,
 									"height": 10
 								},
@@ -3514,7 +3514,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -32,
-									"top": -32,
+									"top": -40,
 									"width": 10,
 									"height": 10
 								},
@@ -3531,7 +3531,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -32,
-									"top": -32,
+									"top": -40,
 									"width": 10,
 									"height": 10
 								}
@@ -5233,7 +5233,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWj3UixuoD0QU="
 					},
-					"name": "대여소벌 정렬",
+					"name": "대여소별 정렬",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
