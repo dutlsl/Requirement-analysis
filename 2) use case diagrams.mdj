@@ -266,7 +266,7 @@
 											"top": 204,
 											"width": 69,
 											"height": 13,
-											"text": "반납"
+											"text": "자전거 반납"
 										},
 										{
 											"_type": "LabelView",
@@ -4196,11 +4196,11 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 596,
+											"left": 601,
 											"top": 412,
-											"width": 62,
+											"width": 84,
 											"height": 13,
-											"text": "삭제"
+											"text": "대여 기록 삭제"
 										},
 										{
 											"_type": "LabelView",
@@ -4234,9 +4234,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 591,
+									"left": 596,
 									"top": 405,
-									"width": 72,
+									"width": 95.2236328125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWj5KMpzfJlb8="
@@ -4342,7 +4342,7 @@
 							"containerChangeable": true,
 							"left": 576,
 							"top": 400,
-							"width": 102,
+							"width": 134,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWj5KMpzfI6o0="
@@ -4486,8 +4486,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 548,
-									"top": 419,
+									"left": 549,
+									"top": 418,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4507,8 +4507,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 521,
-									"top": 434,
+									"left": 522,
+									"top": 433,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4531,8 +4531,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 551,
-									"top": 390,
+									"left": 550,
+									"top": 389,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4551,7 +4551,7 @@
 								"$ref": "AAAAAAGWj5KMpzfHtQY="
 							},
 							"lineStyle": 1,
-							"points": "575:413;526:409",
+							"points": "575:412;526:409",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWj5LUW0D4Vwk="
@@ -5326,7 +5326,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWj3UixuoD0QU="
 					},
-					"name": "반납"
+					"name": "자전거 반납"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -5536,7 +5536,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWj3UixuoD0QU="
 					},
-					"name": "삭제",
+					"name": "대여 기록 삭제",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -5595,8 +5595,4 @@
 							},
 							"target": {
 								"$ref": "AAAAAAGWj4whlP9uYu0="
-							}
-						}
-					]
-				}
-		
+	
