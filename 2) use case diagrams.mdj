@@ -896,7 +896,7 @@
 											"top": 396,
 											"width": 134,
 											"height": 13,
-											"text": "이용 내역 조회 및 삭제"
+											"text": "이용 내역 조회"
 										},
 										{
 											"_type": "LabelView",
@@ -5135,7 +5135,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWj3UixuoD0QU="
 					},
-					"name": "이용 내역 조회 및 삭제"
+					"name": "이용 내역 조회"
 				},
 				{
 					"_type": "UMLActor",
