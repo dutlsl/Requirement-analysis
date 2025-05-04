@@ -472,11 +472,11 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 561,
+											"left": 564.5,
 											"top": 148,
-											"width": 84,
+											"width": 101,
 											"height": 13,
-											"text": "식당 추천 받기"
+											"text": "식당 추천 및 예약"
 										},
 										{
 											"_type": "LabelView",
@@ -510,9 +510,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 556,
+									"left": 559.5,
 									"top": 141,
-									"width": 95.2236328125,
+									"width": 111.83544921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWj3mak+pkF0s="
@@ -618,7 +618,7 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 136,
-							"width": 134,
+							"width": 158,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWj3mak+pjH2c="
@@ -2825,8 +2825,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 500,
-									"top": 190,
+									"left": 502,
+									"top": 191,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2846,8 +2846,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 478,
-									"top": 204,
+									"left": 480,
+									"top": 206,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2870,8 +2870,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 491,
-									"top": 161,
+									"left": 495,
+									"top": 162,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2890,7 +2890,7 @@
 								"$ref": "AAAAAAGWj3mak+pi3TU="
 							},
 							"lineStyle": 1,
-							"points": "535:172;457:193",
+							"points": "542:172;457:194",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWj4/kyxU5SLg="
@@ -3114,8 +3114,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 695,
-									"top": 160,
+									"left": 706,
+									"top": 161,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3136,8 +3136,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 696,
-									"top": 175,
+									"left": 706,
+									"top": 176,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3158,7 +3158,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 694,
+									"left": 707,
 									"top": 131,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3181,7 +3181,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 693,
-									"top": 161,
+									"top": 160,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -3202,7 +3202,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 691,
+									"left": 690,
 									"top": 174,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -3246,8 +3246,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 697,
-									"top": 161,
+									"left": 720,
+									"top": 160,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -3267,7 +3267,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 699,
+									"left": 723,
 									"top": 174,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -3288,8 +3288,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 692,
-									"top": 134,
+									"left": 716,
+									"top": 133,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -3337,7 +3337,7 @@
 								"$ref": "AAAAAAGWj5AGOheEinE="
 							},
 							"lineStyle": 1,
-							"points": "719:152;671:153",
+							"points": "719:152;695:152",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWj5BhgBxjb6E="
@@ -5334,7 +5334,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWj3UixuoD0QU="
 					},
-					"name": "식당 추천 받기",
+					"name": "식당 추천 및 예약",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -5599,7 +5599,4 @@
 						}
 					]
 				}
-			]
-		}
-	]
-}
+		
